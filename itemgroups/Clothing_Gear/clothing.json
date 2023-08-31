@@ -429,8 +429,9 @@
         [ "ofc_leotard_black"        , 30 ],
         [ "ofc_leotard_black_xl"     , 20 ],
         [ "ofc_leotard_black_xs"     , 20 ],
-        [ "ofc_school_mizugi_dark_blue", 30 ],
-        [ "ofc_school_mizugi_white"    , 30 ]
+        [ "ofc_school_mizugi_dark_blue"    , 20 ],
+        [ "ofc_school_mizugi_white"        , 20 ],
+        [ "ofc_school_mizugi_dark_blue_old", 20 ]
       ]
     }
   },
@@ -667,8 +668,9 @@
     "copy-from": "swimmer_wetsuit",
     "extend": {
       "items": [
-        [ "ofc_school_mizugi_dark_blue", 30 ],
-        [ "ofc_school_mizugi_white"    , 30 ]
+        [ "ofc_school_mizugi_dark_blue"    , 20 ],
+        [ "ofc_school_mizugi_white"        , 20 ],
+        [ "ofc_school_mizugi_dark_blue_old", 20 ]
       ]
     }
   },
@@ -678,8 +680,9 @@
     "copy-from": "diving_wetsuit",
     "extend": {
       "items": [
-        [ "ofc_school_mizugi_dark_blue", 10 ],
-        [ "ofc_school_mizugi_white"    , 10 ]
+        [ "ofc_school_mizugi_dark_blue"    , 10 ],
+        [ "ofc_school_mizugi_white"        , 10 ],
+        [ "ofc_school_mizugi_dark_blue_old", 10 ]
       ]
     }
   }

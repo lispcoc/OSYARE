@@ -858,5 +858,13 @@
     "category": "CC_おしゃれ服装委員会",
     "subcategory": "CSC_おしゃれ服装委員会_TORSO",
     "using": [ [ "sewing_standard", 30 ], [ "tailoring_nylon_patchwork", 3 ] ]
+  },
+  {
+    "result": "ofc_school_mizugi_dark_blue_old",
+    "type": "recipe",
+    "copy-from": "sundress",
+    "category": "CC_おしゃれ服装委員会",
+    "subcategory": "CSC_おしゃれ服装委員会_TORSO",
+    "using": [ [ "sewing_standard", 30 ], [ "tailoring_nylon_patchwork", 3 ] ]
   }
 ]
